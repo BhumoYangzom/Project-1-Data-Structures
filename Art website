@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+<Style>
+h1 {
+	text-align: center;
+}
+p {
+	color: green font-family: courier background-color: rgb(240, 240, 240);
+}
+address {
+	border:2px solid DodgerBlue;
+}
+p01 { 
+	color: black;
+}
+a:link {
+	color: blue;
+	background-color: transparent;
+	text-decoration: none;
+}
+a:visited {
+	color:purple;
+	background-color:transparent;
+	text-decoration:none;
+}
+a:hover, a: active {
+	color: green;
+	background-color: transparent;
+	text-decoration: bold;
+}
+
+</style>
+<title>Poetry and Film Analysis </title>
+</head>
+<body>
+<h1>The Unflown Bird </h1>
+<center>
+<img src = "https://scontent.ftul1-1.fna.fbcdn.net/v/t1.15752-9/68316433_462763491214156_1538495265822998528_n.jpg?_nc_cat=105&_nc_oc=AQlRANIeqYW1Q_k75YC2rbeoXVFOybQjo1BgHm9pafbks79dpDCuoFDRtfzsrlgww7M&_nc_ht=scontent.ftul1-1.fna&oh=71aff780cc7d980beab33b473da3f4ad&oe=5DE5A350" alt = "Image of a tree at sunset in Norman, Oklahoma" width = "550" height = "500">
+<p><pre>
+Years ago, I have been wanting to fly
+But my wings were not ready to fly
+They were growing
+But the growth was slow
+They were still the baby wings
+Prodtrudding the middle of my body
+Years after
+They growing long and into shape
+But I didn't know how to fly
+High and fast and steady
+frinds and families came with guidance
+Motivation and effors paid me the skills 
+Now I can fly I think
+But I havent flown yet
+Because my wings
+They are tied by a rope
+Of a powerful curse
+Termed as refugee by other people
+My teacher told me I have an R
+Stamped permanently on my small forehead
+This powerful curse
+I've tried to break
+With all the strength and wits
+But to no avail
+But I believe somebody out there
+More fortunate than myself
+Has the strength and the wit
+I beg you to come to my help
+And free me and erase this ungly R
+To allow me to fly
+Above the sky and below the land
+And deep within the seas and the world
+You'll by my Savor
+For making a free bird
+Peace to you, my Savior!
+But my Savior, you haven't arrived yet
+And I am still
+</pre> </p>
+<p id = "p01">An Unflown Bird.</p>
+</center>
+<br>
+<a href = "https://thesketchyfrog.blogspot.com/" title = "Go to thesketchyfrog.blogspot.com" target = "_blank"> Click here to view other website of mine on arts </a> 
+<br>
+<a href = "https://apotsang.blogspot.com/" title = "Go to apotsang.blogspot.com" target = "_blank">Click here to view my travel journal </a>
+<br>
+<br>
+<address>
+Written by Yangzom Dolma. <br>
+Reach me at: <br>
+apyandol@gmail.com <br>
+</address>
+</html>
